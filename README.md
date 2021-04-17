@@ -2,6 +2,10 @@
 
 steam: https://steamcommunity.com/profiles/76561198237822234/
 
+
+![Limas's GitHub stats](https://github-readme-stats.vercel.app/api?GLima727=anuraghazra&show_icons=true&theme=radical)
+
+
 discord: GL#8729
 <!---
 GLima727/GLima727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
