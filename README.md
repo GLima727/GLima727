@@ -1,9 +1,13 @@
-👋 Hi there, I’m currently studying Computer Science and Engineering at Instituto Superior Técnico.
+## Hi there, I’m currently studying Computer Science and Engineering at Instituto Superior Técnico.
 
-steam: https://steamcommunity.com/profiles/76561198237822234/
+## Steam:
+https://steamcommunity.com/profiles/76561198237822234/
 
 
-discord: GL#8729
+## Discord:
+GL#8729
+
+
 
 ![Limas's GitHub stats](https://github-readme-stats.vercel.app/api?username=GLima727&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 
