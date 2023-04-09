@@ -1,9 +1,5 @@
 ## Hi there, I’m currently studying Computer Science and Engineering at Instituto Superior Técnico.
 
-## Steam:
-https://steamcommunity.com/profiles/76561198237822234/
-
-
 ## Discord:
 GL#8729
 
