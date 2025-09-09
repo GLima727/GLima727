@@ -1,7 +1,6 @@
 ## Hi there, I’m currently studying Computer Science and Engineering at Instituto Superior Técnico.
 
-## Discord:
-GL#8729
+Email: guilhermegutierrez727@gmail.com
 
 
 
